@@ -1,0 +1,13 @@
+{
+  "name": "kb-url-cleaner",
+  "version": "1.0.0",
+  "description": "A dependency-free JavaScript utility to remove URL tracking parameters without disturbing functional query parameters.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "example": "node examples/basic.js"
+  },
+  "keywords": ["url-cleaner", "javascript", "seo", "utm", "tracking-parameters", "privacy"]
+}
